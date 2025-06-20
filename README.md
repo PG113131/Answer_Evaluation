@@ -1,4 +1,4 @@
-<h1 style="color:red;"> Subjective Answer Evaluation</h1>
+<h1> <b> Subjective Answer Evaluation </b></h1>
 
 This project presents a novel solution for the assessment of student answers
 automatically through the combination of Optical Character Recognition (OCR) and 
